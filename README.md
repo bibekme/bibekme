@@ -28,6 +28,7 @@ I'm a self-taught passionate software developer from Nepal 🇳🇵
 ![Django](https://img.shields.io/badge/-Django-white?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
 ![Celery](https://img.shields.io/badge/-Celery-white?style=for-the-badge&logo=celery&logoColor=green)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-white?style=for-the-badge&logo=nginx&logoColor=success)&nbsp;
+![Sentry](https://img.shields.io/badge/-Sentry-white?style=for-the-badge&logo=sentry)&nbsp;
 ![RestAPI](https://img.shields.io/badge/-REST-white?style=for-the-badge&logo=rest&logoColor=092E20)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-white?style=for-the-badge&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongo-white?style=for-the-badge&logo=mongodb)&nbsp;
