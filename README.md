@@ -30,7 +30,7 @@ I'm a self-taught passionate software developer from Nepal 🇳🇵
 ![Nginx](https://img.shields.io/badge/-Nginx-white?style=for-the-badge&logo=nginx&logoColor=success)&nbsp;
 ![Sentry](https://img.shields.io/badge/-Sentry-white?style=for-the-badge&logo=sentry&logoColor=ff69b4)&nbsp;
 ![RestAPI](https://img.shields.io/badge/-REST-white?style=for-the-badge&logo=rest&logoColor=092E20)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-White?style=for-the-badge&logo=postgresql)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-White?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongo-white?style=for-the-badge&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-white?style=for-the-badge&logo=redis)&nbsp;
 ![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-white?style=for-the-badge&logo=rabbitmq)&nbsp;
