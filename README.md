@@ -25,12 +25,12 @@ I'm a self-taught passionate software developer from Nepal 🇳🇵
 ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-White?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
+![Django](https://img.shields.io/badge/-Django-white?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
 ![Celery](https://img.shields.io/badge/-Celery-white?style=for-the-badge&logo=celery&logoColor=green)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-white?style=for-the-badge&logo=nginx&logoColor=success)&nbsp;
 ![Sentry](https://img.shields.io/badge/-Sentry-white?style=for-the-badge&logo=sentry&logoColor=ff69b4)&nbsp;
 ![RestAPI](https://img.shields.io/badge/-REST-white?style=for-the-badge&logo=rest&logoColor=092E20)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-White?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-white?style=for-the-badge&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongo-white?style=for-the-badge&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-white?style=for-the-badge&logo=redis)&nbsp;
 ![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-white?style=for-the-badge&logo=rabbitmq)&nbsp;
