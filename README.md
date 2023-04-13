@@ -12,7 +12,7 @@ I'm a self-taught passionate software developer from Nepal 🇳🇵
 
 - 🖥️ I have a knack for technology and like to keep myself surrounded with computers
 
-- 🤓 I'm currently exploring DevOps
+- 🤓 I'm currently exploring the SaaS ecosystem
 
 - ⌚ In my free time, I read tech articles, books (sometimes), watch tutorials + movies and scroll the internet for memes
 
