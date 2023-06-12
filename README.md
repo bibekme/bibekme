@@ -14,8 +14,6 @@ I'm a self-taught passionate software developer from Nepal 🇳🇵
 
 - 🤓 I'm currently exploring DevOps
 
-- ⌚ In my free time, I read tech articles, books (sometimes), watch tutorials + movies and scroll the internet for memes
-
 ### 🛠 &nbsp;Here's my toolbelt
 
 
