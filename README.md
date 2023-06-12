@@ -16,24 +16,16 @@ I'm a self-taught passionate software developer from Nepal 🇳🇵
 ### 🛠 &nbsp;Here's my toolbelt
 
 
-![Javascript](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-white?style=for-the-badge&logo=typescript)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-white?style=for-the-badge&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=react)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase&logoColor=yellow)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-white?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
-![RestAPI](https://img.shields.io/badge/-REST-white?style=for-the-badge&logo=rest&logoColor=092E20)&nbsp;
 ![Celery](https://img.shields.io/badge/-Celery-white?style=for-the-badge&logo=celery&logoColor=green)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-white?style=for-the-badge&logo=nginx&logoColor=success)&nbsp;
-![Sentry](https://img.shields.io/badge/-Sentry-white?style=for-the-badge&logo=sentry&logoColor=ff69b4)&nbsp;
 ![Postgres](https://img.shields.io/badge/-Postgres-white?style=for-the-badge&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongo-white?style=for-the-badge&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-white?style=for-the-badge&logo=redis)&nbsp;
 ![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-white?style=for-the-badge&logo=rabbitmq)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker)&nbsp;
-![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=1572B6)&nbsp;
 
 ### 📈 &nbsp;My stats
 
